@@ -37,8 +37,6 @@ The Number Guessing Game is a Java-based game where players attempt to guess a r
    - Navigate to the `Number_Guessing_Game` directory.
    - Compile and run the `CheckNumber.java` file.
 
-## Additional Information
 
-For more details on each project, refer to the individual project folders and their respective README files.
 Java development internship!
 
